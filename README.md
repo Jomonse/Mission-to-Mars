@@ -14,11 +14,11 @@ _Image 1: Cerberus hemisphere
 
 _Image 2: Schiaparelli hemisphere
 
-![Uploading Syrtis Major Hemisphere Enhanced.jpg…]()
+![Syrtis Major Hemisphere Enhanced](https://user-images.githubusercontent.com/21062253/143828636-70e27a93-5498-4554-b118-b1b82be6128f.jpg)
 
 _Image 3: Syrtis Major hemisphere
 
-![Uploading Valles Marineris Hemisphere Enhanced.jpg…]()
+![Valles Marineris Hemisphere Enhanced](https://user-images.githubusercontent.com/21062253/143828653-e8108383-75ac-4449-a0a5-7a710ca8ac06.jpg)
 
 _Image 4: SValles Marineris hemisphere
 
